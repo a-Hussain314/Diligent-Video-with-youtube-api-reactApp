@@ -1,0 +1,28 @@
+img{
+    width:25% !important;
+    padding-top:3px !important;
+    cursor:pointer !important;
+   &:hover{ 
+       opacity: .80;
+    }
+}
+
+.title:hover{
+    color: #961615;
+    text-decoration: underline;
+}
+.c5{
+    display:inline-block;
+     width:70%;
+      margin:0px 0px 0px 2%
+}
+
+
+.c5 span {
+    cursor:pointer;
+}
+
+.c5 small {
+    color:grey;
+    font-weight: 600;
+}

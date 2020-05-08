@@ -1,0 +1,24 @@
+h1 {
+    margin-top:10px !important; 
+    display:inline-block !important;
+    width:fit-content !important;
+}
+
+form {
+    display:inline-block !important;
+    width:60% !important;
+
+    div{
+        width: 100% !important;
+    }
+
+    input{
+        &:focus{border-color: red !important;}
+    }
+}
+
+.c2{
+    padding:10px;
+     border-bottom:2px solid #f3f2f2;
+     text-align:center
+}
