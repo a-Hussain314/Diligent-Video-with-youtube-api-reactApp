@@ -3,7 +3,8 @@
 
 
 
-video search App using youtube api https://diligent-video.netlify.app/ 
+Videos Search web Appliction - using youtube Api 
+https://diligent-video.netlify.app/ 
 
 
 
